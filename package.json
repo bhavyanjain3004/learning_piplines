@@ -1,0 +1,22 @@
+{
+  "name": "learning_piplines",
+  "version": "1.0.0",
+  "description": "This project demonstrates the implementation of a basic CI/CD (Continuous Integration and Continuous Deployment) pipeline built as part of a learning exercise.  The goal of this Repo is to understand how modern DevOps pipelines work and how automation improves software delivery.",
+  "main": "index.js",
+  "scripts": {
+    "run":"node index.js",
+    "test":"node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavyanjain3004/learning_piplines.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bhavyanjain3004/learning_piplines/issues"
+  },
+  "homepage": "https://github.com/bhavyanjain3004/learning_piplines#readme"
+}
