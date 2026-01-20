@@ -4,7 +4,7 @@
   "description": "This project demonstrates the implementation of a basic CI/CD (Continuous Integration and Continuous Deployment) pipeline built as part of a learning exercise.  The goal of this Repo is to understand how modern DevOps pipelines work and how automation improves software delivery.",
   "main": "index.js",
   "scripts": {
-    "run":"node index.js",
+    "start":"node index.js",
     "test":"node test.js"
   },
   "repository": {
